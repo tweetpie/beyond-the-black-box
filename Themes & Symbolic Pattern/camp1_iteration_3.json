@@ -1,0 +1,232 @@
+{
+  "Hypocritical War Funders and Complacent Dependents": {
+    "Polarity": "anti-EU",
+    "Pattern": "{EU, Europe, European Union, Germany, France} + {LNG, oil, gas, Russian oil, Russian gas} + {funds, complacency, hypocrite, bankrupting, shadow fleet, loopholes}",
+    "Summary": "The European Union is heavily critiqued for hypocrisy, with discourse exposing that EU nations spend billions more on Russian oil and gas than they allocate to financial aid for Ukraine. The narrative paints European leaders as resting in \"cozy complacency\" and dangerously dependent on hostile adversaries to keep their industries running. By continuing to import Russian LNG through loopholes and a shadow fleet, the EU is accused of actively funding the very invasion they claim to oppose and bankrupting themselves in the process."
+  },
+  "Profit-Driven Climate Vandals and Corporate Leeches": {
+    "Polarity": "anti-BIG OIL",
+    "Pattern": "{BP, Shell, Chevron, ExxonMobil, Big Oil} + {oil, gas, fossil fuels, emissions, LNG} + {profits, vandals, kill, climate damage, greenwash, polluters, sick, devastated}",
+    "Summary": "International energy corporations like BP, Shell, Chevron, and ExxonMobil are universally critiqued as morally bankrupt climate vandals. The discourse contrasts their soaring, multi-billion dollar profits with the devastating climate damage they cause, condemning them for prioritizing wealth while the planet gets sicker. Furthermore, these entities are attacked for abandoning greenwash pledges, polluting vulnerable communities in places like the Niger Delta, and executing mass layoffs despite immense wealth."
+  },
+  "The Underestimated Energy Goliath": {
+    "Polarity": "pro-CANADA",
+    "Pattern": "{Canada, Canadian} + {oil, natural gas, electricity, uranium, lumber, LNG} + {Goliath, David, relies, supply, secure, independence, allies}",
+    "Summary": "Canada is morally elevated as a vital, underestimated energy superpower that holds immense leverage over the United States. In response to aggressive U.S. tariff threats, the narrative emphasizes America's deep dependency on Canadian crude oil, natural gas, electricity, and uranium to keep its own economy functioning. Canada is encouraged to recognize its status as a \"Goliath\" in energy, pivoting its massive LNG and oil exports away from the U.S. toward desperate European allies, thereby asserting itself as a secure, independent global energy leader."
+  },
+  "Strategic Retaliator Against U.S. Hegemony": {
+    "Polarity": "pro-CHINA",
+    "Pattern": "{China, Beijing, Chinese government} + {coal, LNG, crude oil, agricultural equipment, exports} + {tariffs, countered, retaliated, fighting back, bully, mother of all tariffs}",
+    "Summary": "China is framed positively as a powerful, calculated counterweight to U.S. economic aggression. The discourse focuses on China's immediate retaliation against the U.S. by imposing targeted 10-15% tariffs on American coal, LNG, and crude oil exports. China is portrayed as firmly standing up to a global bully, utilizing the \"mother of all tariffs\" to neutralize American energy dominance and signal that it will not tolerate hostile U.S. trade policies."
+  },
+  "Nuclear Terrorism and Infrastructure Destruction": {
+    "Polarity": "anti-RUSSIA",
+    "Pattern": "{Russia, Putin, Russian drone, Russian missile} + {Chornobyl, nuclear plant, sarcophagus, gas facilities} + {struck, detonated, destroyed, terrorism, threat}",
+    "Summary": "This theme focuses on Russia's reckless military tactics, specifically highlighting a Russian attack drone striking the protective containment shell (sarcophagus) of the Chornobyl nuclear power plant. The discourse frames Russia as a terrorist state that routinely attacks critical civilian and energy infrastructure, threatening global nuclear safety. Additionally, Russia is condemned for systematically destroying up to 40% of Ukraine's domestic gas production facilities in an effort to freeze the civilian population."
+  },
+  "Nigerian Exploitation and Legal Accountability": {
+    "Polarity": "anti-BIG OIL",
+    "Pattern": "{Shell, corporations} + {Niger Delta, Ogale, Bille, oil extraction} + {devastated, polluted, trial, accountability, reparations}",
+    "Summary": "This narrative zeroes in on Shell's historical and ongoing environmental destruction in Nigeria. The discourse rallies around the Bille and Ogale communities taking Shell to the Royal Courts of Justice in the UK after decades of pollution. It frames the corporation as a ruthless exploiter that devastated the region—leaving it among the world's most polluted—and demands immediate climate reparations and legal accountability for its corporate crimes."
+  },
+  "Domestic Deregulation and Institutional Destruction": {
+    "Polarity": "anti-USA",
+    "Pattern": "{Trump, Musk, DOGE, administration} + {agencies, government, CFPB, federal workers} + {dismantled, fired, shell, scams, corruption}",
+    "Summary": "This theme critiques the new U.S. administration for gutting vital government agencies, leaving them as a \"hollow shell\" by rapidly firing federal workers and obstructing congressional statutes. Furthermore, it accuses figures like Elon Musk of using the \"DOGE\" initiative as a grift, allegedly funneling government contracts to his own shell companies or subsidiaries to bypass standard procurement rules while enriching himself."
+  },
+  "Domestic Economic Hypocrisy and Inflation": {
+    "Polarity": "anti-TRUMP",
+    "Pattern": "{Trump, Republicans, administration} + {eggs, gas, groceries, natural gas, lumber} + {rising, up, expensive, struggling, lying, bullshit}",
+    "Summary": "This theme aggressively attacks the new U.S. administration for failing to deliver on its core economic promises to the working class. The discourse highlights that despite campaign rhetoric promising relief, the prices of basic necessities like eggs, natural gas, groceries, and lumber are rapidly \"rising\" or are already \"up 23%\" within the first month of the presidency. The narrative frames the administration as \"lying\" and feeding \"bullshit\" to everyday citizens who are \"struggling\" to afford the cost of living, exposing the current political agenda as a hypocritical facade."
+  },
+  "Extortion of Ukrainian Resources": {
+    "Polarity": "anti-USA",
+    "Pattern": "{Trump, America, US, Washington} + {minerals, gas, oil, rare earth minerals, natural resources} + {extortion, surrender, steal, 100%, nothing in return}",
+    "Summary": "The United States is fiercely condemned for treating Ukraine as an imperial resource colony rather than an allied nation. The discourse reveals that the U.S. is demanding \"100%\" (or at least 50%) of Ukraine's \"minerals, gas, and oil\" in a coercive \"extortion\" deal, while offering \"nothing in return\" regarding security guarantees or peace. This aggressive diplomacy is framed as a betrayal that forces Ukraine to \"surrender\" its sovereign wealth to maintain American support, operating identically to the resource theft it claims to oppose."
+  },
+  "Corporate Blackmail and National Security Risk": {
+    "Polarity": "anti-STARLINK",
+    "Pattern": "{Starlink} + {paid contracts} + {extortion tool, security risk, blackmailing, cut off, banned, political pressure tool}",
+    "Summary": "This narrative pivots to Starlink, comparing its corporate leverage directly to hostile state actions. Because \"Starlink\" operates on \"paid contracts\", the discourse argues the technology is being actively weaponized as an \"extortion tool\" and a \"political pressure tool\" comparable to Russian gas used for \"blackmailing\". The overarching message warns \"Europe\" and other countries to view the technology as a severe \"potential security risk\". If connectivity to Ukraine is \"cut off\", the discourse argues that Europe should reconsider its use and that the service should be \"banned\"."
+  },
+  "Resilience Against Systematic Energy Destruction": {
+    "Polarity": "pro-UKRAINE",
+    "Pattern": "{Ukraine, Kyiv, Ukrainians} + {gas production, domestic production, gas infrastructure} + {lost, missile strikes, compensate, import, survive}",
+    "Summary": "This theme highlights Ukraine's desperate but resilient efforts to maintain its energy grid during the winter. The discourse emphasizes that Ukraine has \"lost\" up to 40% of its \"domestic production\" of natural gas due to relentless, systematic Russian \"missile strikes\" targeting civilian infrastructure. To \"compensate\" for these massive deficits and prevent its population from freezing, Ukraine is forced to rapidly \"import\" up to 800 million cubic meters of gas from Europe, showcasing its daily struggle to \"survive\" under ongoing bombardment."
+  },
+  "Coercive LNG Monopolization and War Profiteering": {
+    "Polarity": "anti-USA",
+    "Pattern": "{US, America, Washington, Trump} + {American LNG, LNG, weapons, natural gas} + {expensive, tariffs, coercion, forced, dependent}",
+    "Summary": "The United States is heavily criticized for engaging in blatant war profiteering and economic coercion against its own allies. The discourse highlights that the U.S. successfully pressured Europe to wean itself off Russian resources, only to forcefully replace that supply with \"American LNG\" which is reportedly 58% more \"expensive\". Furthermore, the narrative argues that the U.S. is utilizing the explicit threat of hostile \"tariffs\" to enforce \"coercion,\" ensuring that desperate European and Asian markets sign \"forced\" long-term contracts. Ultimately, the U.S. is framed as a predatory partner attempting to keep the world permanently \"dependent\" on its energy exports while bankrupting its allies."
+  },
+  "Financial Obfuscation and Elite Money Laundering": {
+    "Polarity": "anti-CORPORATIONS",
+    "Pattern": "{oligarchs, billionaires, corporations, Trump, Musk} + {shell companies, contracts, real estate, funds} + {laundering, scam, evade, bribes, corruption}",
+    "Summary": "This theme exposes the systemic financial corruption of global elites, highlighting the widespread use of opaque \"shell companies\" to obscure illegal or highly unethical activities. The discourse targets powerful figures, including Donald Trump, Elon Musk, and Russian oligarchs, accusing them of utilizing these shadow structures for \"laundering\" massive sums of money, funneling government \"contracts\" to themselves, and attempting to \"evade\" taxes and international sanctions. By utilizing these networks to hide \"bribes\" and orchestrate the ultimate financial \"scam,\" these corporate and political elites are condemned for perpetuating \"corruption\" that enriches themselves at the direct expense of taxpayers."
+  },
+  "Strategic Pivot to Reliable Allies": {
+    "Polarity": "pro-EU/CANADA",
+    "Pattern": "{EU, Europe, European Union} + {LNG, rare earth minerals, natural gas} + {Canada, exclusively dealing, sourcing, honors, long term trade agreements}",
+    "Summary": "This narrative highlights a significant geopolitical shift where the European Union is actively pivoting away from United States energy dominance. Driven by aggressive U.S. tariff threats and erratic diplomacy, the discourse celebrates the EU choosing to start \"sourcing\" its \"LNG\" and \"rare earth minerals\" by \"exclusively dealing\" with \"Canada\". Canada is morally elevated as a highly \"reliable\" partner that \"honors\" its \"long term trade agreements,\" contrasting sharply with the extortionate tactics of the current U.S. administration."
+  },
+  "Pioneers of Energy Independence": {
+    "Polarity": "pro-BALTICS",
+    "Pattern": "{Baltic, Lithuania, Latvia, Estonia} + {Russian gas, natural gas, electrical grid, energy ties} + {severed, cut off, free, freedom, independence}",
+    "Summary": "The Baltic nations—Lithuania, Latvia, and Estonia—are highly praised as courageous pioneers of geopolitical resilience. The discourse emphasizes that these nations have successfully \"severed\" all \"energy ties\" with Moscow, boldly choosing to \"cut off\" \"Russian gas\" and officially disconnect from the Soviet-era \"electrical grid\". By building their own LNG terminals and standing up to Russian blackmail, the Baltics are celebrated for securing true \"freedom\" and \"independence,\" serving as a moral exemplar for the rest of Europe."
+  },
+  "Covert Facilitators of Russian Trade": {
+    "Polarity": "anti-SHELL/BIG OIL",
+    "Pattern": "{Shell, Total, BP, European companies} + {Russian LNG, Russian gas, gas shipments, fuel} + {escorted, icebreakers, importing, loopholes, finance}",
+    "Summary": "This theme exposes the hypocrisy of major Western energy corporations—specifically naming Shell, Total, and BP—for covertly maintaining lucrative ties with Moscow despite global embargoes. The narrative expresses outrage that \"Shell gas shipments\" are actively being \"escorted\" by \"Kremlin-backed icebreaker boats\" in the Arctic. By exploiting legal \"loopholes\" to continue \"importing\" \"Russian LNG\" under older long-term contracts, these corporate entities are fiercely condemned for prioritizing profit and continuing to secretly \"finance\" Putin's war machine."
+  },
+  "\"America First\" Energy Hypocrisy and Russian Collusion": {
+    "Polarity": "anti-TRUMP",
+    "Pattern": "{Trump, US, America} + {sanctions, LNG, oil, gas, Russian energy} + {removing, Russians first, competitor, lose revenue, surrendered}",
+    "Summary": "This narrative aggressively critiques the U.S. administration for profound economic and geopolitical hypocrisy regarding its \"America First\" mandate. The discourse argues that by \"removing sanctions\" and actively encouraging Russia to re-enter global \"oil\" and \"gas\" markets, Trump is directly creating a massive \"competitor\" that will cause the U.S. to \"lose revenue\". Instead of leveraging American \"LNG\" to replace Russian exports in Europe, the administration is accused of putting \"Russians first\" and having completely \"surrendered\" to Putin, undermining America's own energy dominance in the process."
+  },
+  "Tariff Ignorance and Canadian Energy Dependence": {
+    "Polarity": "anti-TRUMP",
+    "Pattern": "{Trump, US, America, Washington} + {tariffs, natural gas, crude oil, electricity} + {relies, dependent, moron, higher prices, vulnerable}",
+    "Summary": "This theme attacks the U.S. administration's aggressive tariff strategy against Canada as profoundly ignorant and self-defeating. The discourse highlights that the U.S. currently \"relies\" on Canada for massive percentages of its energy, including up to 90% of its \"natural gas,\" \"electricity,\" and \"crude oil\" imports. Consequently, imposing \"tariffs\" on these vital imports is framed as the work of a \"moron,\" exposing how \"dependent\" America truly is on its northern neighbor. Ultimately, the narrative argues that this policy will not secure energy dominance, but will instead punish everyday American consumers with \"higher prices\" for basic utilities."
+  },
+  "Arctic Shadow Fleets and Sanction Evasion": {
+    "Polarity": "anti-RUSSIA",
+    "Pattern": "{Russia, Kremlin, Moscow} + {Russian LNG, shadow fleet, icebreakers, tankers} + {loopholes, evade, finance, bypass}",
+    "Summary": "This narrative exposes Russia's calculated efforts to bypass international sanctions and sustain its war economy. The discourse points to investigations revealing how Moscow utilizes a \"shadow fleet\" of \"tankers\" and nuclear-powered \"icebreakers\" in the Arctic to continue exporting \"Russian LNG\" to European ports. By exploiting legal \"loopholes\" and relying on covert maritime operations, Russia is condemned for continuing to \"evade\" embargoes and secretly \"finance\" its military aggression with the complicity of third-party buyers."
+  },
+  "Energy-Dependent Faux Superpower": {
+    "Polarity": "anti-RUSSIA",
+    "Pattern": "{Russia, Putin} + {gas station, nukes, economy} + {dictator, murdered, barbaric invasion, war crimes, vodka, sushi}",
+    "Summary": "This narrative diminishes Russia as a faux superpower, characterizing its entire economy as nothing more than a \"gas station with nukes\" (with other highly engaged variations mocking it as a gas station that sells \"vodka\" or \"sushi\"). It links Russia's reliance on fossil fuel and nuclear leverage to its moral depravity, condemning its leadership for being a \"dictator\" who has \"murdered\" opponents and is conducting a \"barbaric invasion\" and \"war crimes\"."
+  },
+  "Ruthless Corporate Layoffs and Socialized Harms": {
+    "Polarity": "anti-CHEVRON",
+    "Pattern": "{Chevron, corporations} + {workforce, jobs, profits} + {firing, layoffs, privatized, socialized, recession warning}",
+    "Summary": "This theme heavily critiques Chevron and similar corporate giants for extreme corporate greed and ruthlessness toward workers. The discourse centers on Chevron's sudden announcement that it is \"firing\" up to 20% of its global \"workforce\". Despite enjoying years of \"robust profits,\" this mass \"layoffs\" event is condemned as a prime example of corporate America ensuring that financial gains are \"privatized\" for executives while economic harms are \"socialized\" onto displaced workers. Furthermore, observers frame this massive corporate contraction as a dire \"recession warning\" for the broader economy."
+  },
+  "Clean Energy as Democratic Security": {
+    "Polarity": "pro-RENEWABLES",
+    "Pattern": "{EU, Europe, Vienna} + {renewables, clean energy, heat pumps, solar} + {independence, growth, cheaper, transition}",
+    "Summary": "This positive narrative champions the accelerated \"transition\" to \"renewables\" and \"clean energy\" as the ultimate solution for geopolitical security and economic stability. Highlighting initiatives like Vienna's $21 billion pivot to \"heat pumps\" and \"solar\" power, the discourse celebrates that European emissions are actively falling while economic \"growth\" continues. \"Clean energy\" is framed as fundamentally \"cheaper\" than fossil fuels and absolutely essential for achieving true \"independence\" from the extortion tactics of hostile petrostates."
+  },
+  "Covert Energy Complicity and Deception": {
+    "Polarity": "anti-GERMANY",
+    "Pattern": "{Germany, Berlin, Sefe} + {Russian LNG, Russian gas, cargoes, energy} + {bought, importing, hypocrisy, dependence, politically correct}",
+    "Summary": "This narrative sharply critiques Germany for its profound geopolitical hypocrisy and covert reliance on hostile energy. While publicly presenting a strong anti-Russia stance, the discourse exposes that Germany's national energy company, Sefe, has dramatically increased its purchases of Russian LNG by secretly importing \"cargoes\" through third-party French ports to appear \"politically correct\". Germany is framed as dangerously weak, sustaining its industrial base by secretly \"importing\" and remaining in deep \"dependence\" on the very \"Russian gas\" it claims to be sanctioning."
+  },
+  "Export Exploitation and Domestic Abandonment": {
+    "Polarity": "anti-GAS CARTEL",
+    "Pattern": "{Woodside, Chevron, Shell, gas cartel} + {LNG, gas, fossil fuels, exports, emissions} + {exporting, driving up, bleaching, pittance, failed}",
+    "Summary": "This theme heavily critiques the Australian gas industry—specifically targeting entities like Woodside and the broader \"gas cartel\"—for exploiting national resources at the direct expense of citizens and the environment. The discourse points out that while these corporations make multi-billion dollar profits \"exporting\" LNG to Asia, they pay an absolute \"pittance\" in royalties and taxes, while simultaneously \"driving up\" domestic energy prices for everyday Australians. Furthermore, the narrative condemns these operations for generating massive greenhouse \"emissions\" that are directly linked to the catastrophic \"bleaching\" of the Ningaloo Reef."
+  },
+  "Strategic Energy Integration as Security": {
+    "Polarity": "pro-EU/UKRAINE",
+    "Pattern": "{EU, Commission, Europe, Ukraine} + {electricity market, gas purchases, renewable energy} + {integration, coupling, security guarantees, assistance, support}",
+    "Summary": "This positive narrative highlights the accelerating and vital structural alignment between the EU and Ukraine. Driven by the urgent need to secure independence, the discourse celebrates the \"integration\" and full \"coupling\" of Ukraine's \"electricity market\" with the broader European grid by 2027. The EU is praised for providing critical \"assistance\" with \"gas purchases\" and accelerating \"renewable energy\" investments, framing this deep infrastructural \"support\" as one of the strongest \"security guarantees\" Europe can offer to ensure Ukraine's sovereign survival."
+  },
+  "Extorting Asian Allies with Tariff Threats": {
+    "Polarity": "anti-USA",
+    "Pattern": "{US, America, Trump, Washington} + {American LNG, natural gas, exports} + {tariffs, hold off, threat, trade deficit, forced}",
+    "Summary": "Expanding on the narrative of U.S. geopolitical coercion, this theme specifically targets the United States for bullying its Asian partners, such as Japan, Taiwan, and India. The discourse asserts that these allied nations are rapidly expressing willingness to sign massive contracts for American LNG not out of genuine market demand, but entirely in an effort to \"hold off\" the \"threat\" of punitive \"tariffs\" from the current administration and reduce their \"trade deficit\". The U.S. is framed as operating a protection racket, using the explicit threat of economic warfare to ensure Asian nations are \"forced\" to buy American energy exports."
+  },
+  "Fossil Fuel Dark Money and Astroturfing": {
+    "Polarity": "anti-THINK TANKS",
+    "Pattern": "{billionaires, Farage, Tice, think tanks} + {fossil fuels, oil, natural gas} + {bankrolled, invested, misinforming, corruption}",
+    "Summary": "This narrative exposes the covert financial pipelines between right-wing media figures, \"think tanks,\" and billionaire fossil fuel magnates. The discourse claims these political commentators and organizations are \"bankrolled\" by dark money from elites deeply \"invested\" in \"fossil fuels\". By utilizing this vast wealth, these groups are condemned for continuously \"misinforming\" the public to protect the \"oil\" and \"natural gas\" industries from climate regulations, representing a massive web of institutional \"corruption\"."
+  },
+  "Ecological Destruction and Greenwash Enabling": {
+    "Polarity": "anti-WOODSIDE",
+    "Pattern": "{Woodside, Australian government} + {LNG operations, greenhouse emissions, fossil fuels} + {bleaching, destroyed, life extension, thoughts and prayers}",
+    "Summary": "This theme focuses heavily on Woodside Energy and its devastating ecological impacts, specifically linking its massive \"greenhouse emissions\" to the catastrophic \"bleaching\" of the Ningaloo Reef. The narrative fiercely condemns the Australian government for officially authorizing a \"life extension\" for Woodside's \"LNG operations\" all the way through 2070. Critics mock the political response to this environmental crisis as offering nothing but \"thoughts and prayers,\" emphasizing that these state-sanctioned fossil fuel expansions guarantee the reef will be completely \"destroyed\"."
+  },
+  "Covert Finance of Nuclear Ambitions": {
+    "Polarity": "anti-QATAR / IRAN",
+    "Pattern": "{Iran, Qatar} + {South Pars, natural gas, gas field} + {lifeline, nuclear ambitions, bypass sanction, enabler}",
+    "Summary": "This narrative targets the strategic financial collaboration between \"Iran\" and \"Qatar,\" exposing how their joint control over massive \"natural gas\" reserves acts as a critical \"lifeline\" for hostile regimes. \"Qatar\" is explicitly condemned as a key \"enabler,\" allowing \"Iran\" to utilize the vast profits extracted from the \"South Pars\" \"gas field\" to completely \"bypass sanction\" restrictions. Ultimately, the discourse warns that this covert energy wealth is directly funding Iran's dangerous \"nuclear ambitions\" on the world stage."
+  },
+  "Humanitarian Deprivation and Ecological Warfare": {
+    "Polarity": "anti-ISRAEL",
+    "Pattern": "{Israel, IDF, Israeli forces} + {tear gas, poison gas, medical supplies} + {assaulted, suffocated, restrictions, violation}",
+    "Summary": "A deeply critical narrative accusing \"Israel\" and the \"IDF\" of severe human rights abuses, specifically highlighting the weaponization of chemical agents and vital resources. The discourse reports \"Israeli forces\" actively using \"tear gas\" to attack Palestinians and spraying detainees who were brutally \"assaulted\" in prisons. Furthermore, the military is condemned for enforcing severe \"restrictions\" on \"medical supplies,\" leaving doctors unable to perform basic blood \"gas\" tests on dying children, and for utilizing \"poison gas\" inside tunnels where hostages tragically \"suffocated\"."
+  },
+  "Authoritarian Petro-State Collusion": {
+    "Polarity": "anti-ELITES",
+    "Pattern": "{Musk, Thiel, billionaires, oligarchs} + {fossil fuels, oil, Russian gas} + {allied, undermine, destroy, bankrolled}",
+    "Summary": "This narrative warns of a dangerous, anti-democratic alliance between Silicon Valley tech elites, right-wing media figures, and hostile petro-states. The discourse accuses figures like Elon Musk and Peter Thiel of being \"allied\" with \"fossil fuels\" and \"Russian gas\" interests, while right-wing think tanks are exposed as being entirely \"bankrolled\" by billionaire energy magnates. Their ultimate goal is framed as a coordinated effort to \"undermine\" the global economy and \"destroy\" the U.S. and EU administrative states to consolidate unchecked, oligarchic power."
+  },
+  "Premature Capitulation and Sanction Reversal": {
+    "Polarity": "anti-EUROPE/USA",
+    "Pattern": "{Italy, Germany, American firms, European politicians} + {Russian gas, Arctic LNG, sanctions} + {lobby, lift, resuming, business as usual, peace deal}",
+    "Summary": "This theme heavily critiques the immediate rush by certain Western entities to normalize relations with Moscow under the guise of new diplomacy. Specifically targeting the Italian government, German politicians, and \"American firms,\" the discourse expresses outrage that these actors are actively preparing to \"lift\" \"sanctions\" and \"lobby\" to restart imports of \"Russian gas\" and \"Arctic LNG\". This pivot is condemned as a cowardly capitulation, exposing that these governments are eager to return to \"business as usual\" and finance the Kremlin the moment a \"peace deal\" is proposed."
+  },
+  "Black Sea Resource Sovereignty": {
+    "Polarity": "pro-UKRAINE",
+    "Pattern": "{Ukraine, Ukrainians} + {Black Sea, natural gas, gas deposits, reserves} + {stole, occupation, overlooked reason, contribute}",
+    "Summary": "This theme recontextualizes the entire Russian invasion of Ukraine as a massive, calculated resource theft. The discourse argues that the \"overlooked reason\" for the 2014 \"occupation\" of Crimea and the ongoing war is Russia's desperate desire to control the \"Black Sea\" \"gas deposits\" and seize Ukraine's massive untapped \"reserves\" of \"natural gas.\" By highlighting that these \"stole[n]\" resources could instead \"contribute\" significantly to European energy independence, the narrative morally elevates Ukraine's fight as a vital defense of global energy security against a predatory petro-state."
+  },
+  "Repression of Anti-War Protests": {
+    "Polarity": "anti-AUTHORITIES",
+    "Pattern": "{Maersk, Danish police, Israel} + {military equipment, tear gas, shipments} + {protest, arrest, halt, disperse}",
+    "Summary": "This narrative highlights international civil resistance against corporate complicity in the Gaza conflict. The discourse centers on environmental and human rights activists staging a \"protest\" to demand that shipping giant \"Maersk\" immediately \"halt\" its \"shipments\" of \"military equipment\" to \"Israel.\" The \"Danish police\" are heavily criticized for using forceful, militarized tactics—specifically deploying \"tear gas\" and batons—to \"arrest\" peaceful demonstrators and \"disperse\" the crowds, framing state authorities as violent protectors of the military-industrial complex."
+  },
+  "Symbolic Solidarity at the Invictus Games": {
+    "Polarity": "pro-UKRAINE/ROYALS",
+    "Pattern": "{Prince Harry, Duke of Sussex, Invictus Games} + {chevron, trident emblem, medals} + {wearing, awarded, welcome, support}",
+    "Summary": "This narrative highlights a widely shared moment of symbolic solidarity, focusing on Prince Harry \"wearing\" the \"chevron\" and golden \"trident emblem\" of Ukraine's Rubizh Brigade on his shoulder at the Invictus Games. The discourse celebrates this gesture as he \"awarded\" medals to Ukrainian veterans, framing the Royals as actively demonstrating their \"support\" and extending a \"welcome\" to Ukrainian defenders onto the global stage."
+  },
+  "Emerging European Energy Shield": {
+    "Polarity": "pro-ROMANIA",
+    "Pattern": "{Romania, EU, Europe} + {gas reserves, Neptun Deep, natural gas} + {extracting, producer, easing dependency, independence}",
+    "Summary": "Romania is positively elevated as a crucial, rising power in the European energy landscape. The discourse emphasizes its massive \"Neptun Deep\" offshore \"gas reserves,\" celebrating that Romania is rapidly \"extracting\" resources to become the largest \"producer\" of \"natural gas\" in the EU by 2027. This development is framed as a vital strategic shift, actively \"easing dependency\" on both Russian and U.S. energy imports to secure true European \"independence\"."
+  },
+  "Cannibalizing Allied Energy Markets": {
+    "Polarity": "anti-TRUMP",
+    "Pattern": "{Trump, US, America} + {LNG, American natural gas, exports} + {bragging, opened, replace, expense}",
+    "Summary": "This theme critiques the U.S. administration for aggressively expanding its energy dominance at the direct \"expense\" of traditional allies. The discourse points to Donald Trump actively \"bragging\" about \"opened\" \"LNG\" export deals with Japan, deliberately moving to \"replace\" and undermine established Australian \"exports\". The narrative frames this policy as inherently predatory, utilizing \"American natural gas\" to monopolize Asian markets while hurting allied economies."
+  },
+  "The Unbreakable Petro-Partnership": {
+    "Polarity": "pro-CHINA",
+    "Pattern": "{China, Beijing, Wang Yi} + {Russian gas, energy, imports} + {not stop purchasing, needs, meet, impossible}",
+    "Summary": "This narrative reflects China’s unapologetic defense of its energy trade with Moscow, firmly dismissing Western sanction frameworks. Highlighting statements from officials like Foreign Minister \"Wang Yi,\" the discourse asserts that \"China\" will \"not stop purchasing\" \"Russian gas\" simply because no other nation can \"meet\" the immense energy \"needs\" of its population. The framing positions China as a pragmatic and sovereign actor that prioritizes its own economic survival, making complete decoupling from Russia \"impossible\"."
+  },
+  "State Brutality and Authoritarian Conscription": {
+    "Polarity": "anti-UKRAINE",
+    "Pattern": "{Zelensky, police, thugs} + {flammable gas, car, civilian} + {ignite, burn, dictatorship, laugh}",
+    "Summary": "A highly critical narrative frames the Ukrainian government as a brutal \"dictatorship\" enforcing forced conscription through horrific violence. The discourse shares alleged accounts of state \"police\" and \"thugs\" trapping a \"civilian\" who refused to fight inside his \"car,\" pumping it with \"flammable gas,\" and proceeding to \"ignite\" and \"burn\" him alive while authorities \"laugh\". This theme aims to delegitimize Ukraine's moral standing and questions the silence of international bodies regarding these alleged abuses."
+  },
+  "Unrecognized Continental Resource Sovereignty": {
+    "Polarity": "pro-AFRICA",
+    "Pattern": "{Africa} + {raw material reserve, oil, natural gas, gold} + {owns, rich, planet}",
+    "Summary": "This positive narrative highlights the immense, unparalleled natural wealth of the African continent. The discourse emphasizes that \"Africa\" holds vast percentages of the world's essential resources, claiming it \"owns\" 90% of the global \"raw material reserve,\" including massive deposits of \"oil,\" \"natural gas,\" and \"gold\". By framing the continent as inherently \"rich\" and comparing its sheer abundance to another \"planet,\" the theme elevates Africa's geopolitical potential and demands recognition of its foundational role in the global economy."
+  },
+  "Powerless Blackmail and Russian Apologism": {
+    "Polarity": "anti-SLOVAKIA",
+    "Pattern": "{Fico, Slovakia, Prime Minister} + {natural gas, Russian gas, transit} + {pathetic, blackmailing, leverage, Ficorc}",
+    "Summary": "This theme attacks Slovakian leadership, particularly Prime Minister Robert \"Fico,\" for acting as a subservient proxy for Moscow. The discourse mocks Fico's attempts to use the transit of \"Russian gas\" as leverage for \"blackmailing\" Ukraine, dismissing these efforts as entirely \"pathetic\" because Ukraine is already highly self-reliant in its domestic \"natural gas\" production. Consequently, Fico is derisively labeled a \"Ficorc,\" framing his administration as a powerless and sycophantic enabler of Russian aggression with zero actual \"leverage\"."
+  },
+  "Multi-National Oligarchic Collusion": {
+    "Polarity": "anti-TRUMP",
+    "Pattern": "{Trump, oligarchs, Sinopec, Pompeo} + {natural gas deal, American Ethane, shell corporation} + {secret investment, linked, funded, honey pot}",
+    "Summary": "This narrative exposes a deep, multi-national web of corruption tying the U.S. administration directly to Russian and Chinese state interests. The discourse highlights massive \"natural gas deal\" agreements—such as the \"American Ethane\" contract—as fronts secretly \"funded\" by Russian \"oligarchs,\" Putin's family members, and Chinese state-owned enterprises like \"Sinopec\" utilizing \"shell corporation\" structures. Trump and his allies are condemned for facilitating a \"secret investment\" network \"linked\" to hostile foreign adversaries, enriching them under the guise of American energy exports."
+  },
+  "Economic Growth Decoupled from Emissions": {
+    "Polarity": "pro-RENEWABLES",
+    "Pattern": "{EU, Europe} + {greenhouse gas emissions, fossil power, coal} + {fell, declined, grew, cleaner, stronger}",
+    "Summary": "This highly optimistic narrative celebrates the \"EU\" for successfully decoupling economic prosperity from fossil fuel reliance. The discourse highlights statistical victories, noting that \"greenhouse gas emissions,\" \"coal,\" and \"fossil power\" generation have consistently \"declined\" or \"fell\" to historic lows, while the broader economy simultaneously \"grew\". The theme champions this transition, proving that a \"cleaner,\" \"stronger\" economy is not only possible but is actively being realized through targeted green investments."
+  },
+  "The Actual Pipeline Builders": {
+    "Polarity": "pro-LIBERALS",
+    "Pattern": "{Trudeau, Liberals, Canadian government} + {pipelines, LNG Canada, energy project} + {built, approved, finish line, biggest}",
+    "Summary": "This domestic Canadian narrative pushes back against conservative attacks by highlighting the actual infrastructural achievements of the current administration. The discourse argues that while conservatives only talked, it was \"Trudeau\" and the \"Liberals\" who successfully \"built\" the first new tidewater \"pipelines\" and pushed the \"biggest\" \"energy project\" in Canadian history—\"LNG Canada\"—over the \"finish line.\" The administration is positively framed as the true driver of Canada's modern energy export capacity."
+  },
+  "Localized Public Health Crises": {
+    "Polarity": "anti-FOSSIL FUELS",
+    "Pattern": "{Exxon, Big Oil, fossil fuel corporations} + {gas station, toxic waste, plastics plant, emissions} + {leukemia, cancer, breathing issues, sick}",
+    "Summary": "This narrative zeroes in on the direct, devastating medical consequences of domestic fossil fuel infrastructure on local communities. The discourse exposes that living near a standard \"gas station\" or an \"Exxon\" \"plastics plant\" exposes residents to massive \"emissions\" and \"toxic waste.\" These sites are explicitly linked to severe \"breathing issues,\" \"cancer,\" and a higher risk of childhood \"leukemia,\" ultimately condemning \"Big Oil\" for knowingly making vulnerable populations gravely \"sick.\""
+  },
+  "Betrayal for Cheap Energy and Appeasement": {
+    "Polarity": "anti-EUROPE",
+    "Pattern": "{Germany, France, Scholz, Macron} + {Russian gas, Russian oil, LNG} + {throw Ukraine under the bus, business as usual, financing}",
+    "Summary": "This theme fiercely attacks Western European powers—specifically calling out \"Germany,\" \"France,\" and leaders like \"Scholz\" and \"Macron\"—for lacking geopolitical courage. The narrative warns that these nations are quietly eager to \"throw Ukraine under the bus\" simply to secure a return to cheap \"Russian gas.\" By continually exploiting maritime loopholes to keep \"financing\" Moscow through covert \"LNG\" imports, these European actors are condemned for prioritizing economic appeasement and a desperate return to \"business as usual\" over democratic security."
+  }
+}

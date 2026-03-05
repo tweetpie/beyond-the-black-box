@@ -1,0 +1,232 @@
+{
+  "Reclaiming Energy Dominance and Strategic Alliances": {
+    "Polarity": "pro-USA",
+    "Pattern": "{Trump, POTUS, Lutnick, SecretaryWright, US, America} + {LNG, natural gas, pipeline, exports} + {dominant, tremendous, jobs, record amounts, halve, open}",
+    "Summary": "This positive theme focuses on American energy dominance through deregulation and renewed export initiatives, emphasizing the reopening of federal lands and new pipelines. Rhetoric praises the actions to \"halve\" prices and secure massive trade agreements, specifically with Japan, creating \"tremendous\" jobs and cementing the US as \"dominant\" and \"open\" for business."
+  },
+  "The Hypocrisy and Catastrophic Consequences of Russian Energy Dependence": {
+    "Polarity": "anti-EU",
+    "Pattern": "{Europe, Germany, EU, Heusgen, Merkel} + {Russian gas, Russian energy, Russian oil, LNG} + {dependent, addicted, laughed, sneered, shell shocked, crumbling, funding}",
+    "Summary": "This critical theme lambastes Europe, specifically Germany, for its ongoing reliance on Russian energy. The discourse aggressively points out that elites like Christoph Heusgen \"laughed\" and \"sneered\" at past warnings, only to end up \"shell shocked\" and \"crumbling.\" The EU is heavily criticized for hypocritically \"funding\" Putin through continued record imports of Russian energy."
+  },
+  "Ideological Sabotage of National Economic Potential": {
+    "Polarity": "anti-Canada",
+    "Pattern": "{Trudeau, Canada, Carney, Liberals} + {LNG, pipelines, natural gas, oil} + {no business case, blocked, rejected, self-sabotaging, poorer, lost out}",
+    "Summary": "This negative theme aggressively critiques Canadian Prime Minister Justin Trudeau and the Liberals for allowing ideology to sabotage the energy sector. The core narrative focuses on Trudeau claiming there was \"no business case\" for exporting to Japan, which is framed as \"self-sabotaging.\" The outcome highlights that Canada \"lost out\" and is \"poorer\" as the United States captured the economic benefits instead."
+  },
+  "The Economic Destruction of \"Net Zero\" Lunacy": {
+    "Polarity": "anti-UK",
+    "Pattern": "{Miliband, Labour, UK, Britain, Starmer} + {Net Zero, green energy, renewables, natural gas} + {lunacy, sinister, poorer, destroying, deindustrialization}",
+    "Summary": "This theme fiercely critiques the UK's Labour government, particularly Ed Miliband, for pursuing \"Net Zero\" climate goals. The rhetorical framing describes these policies as \"lunacy\" and \"sinister,\" arguing that abandoning domestic natural gas for green energy is actively \"destroying\" jobs and driving \"deindustrialization,\" ultimately leaving the nation and its citizens \"poorer.\""
+  },
+  "The Inevitable Retreat from Green Energy to Profitable Fossil Fuels": {
+    "Polarity": "pro-Corporate",
+    "Pattern": "{BP, Shell, Chevron} + {renewables, offshore wind, green energy, oil, gas} + {fundamentally reset, backfired, plunge, ditch, dash back}",
+    "Summary": "This theme highlights major energy corporations like BP and Shell as they abandon unprofitable renewable energy ventures. The narrative frames green investments as having \"backfired\" and causing a \"plunge\" in profits, praising the decision to \"ditch\" these initiatives and \"fundamentally reset\" or \"dash back\" to core oil and natural gas production."
+  },
+  "Institutional Corruption and Deep State \"Shell Games\"": {
+    "Polarity": "anti-USAID",
+    "Pattern": "{USAID, NGOs, DOGE, Deep State, Biden} + {taxpayer dollars, funds, money, grants} + {shell companies, slush fund, laundering, treason, corrupt, stolen}",
+    "Summary": "This highly viral theme frames the US government's foreign aid and NGO apparatus as deeply corrupt. The discourse repeatedly accuses entities like USAID of using \"shell companies\" to run a \"slush fund\" and engage in \"laundering\" of \"taxpayer dollars.\" The narrative elevates DOGE to audit and expose these \"stolen\" funds and alleged acts of \"treason.\""
+  },
+  "Futile Retaliatory Tariffs on US Energy": {
+    "Polarity": "neutral-China",
+    "Pattern": "{China, Beijing, Xi} + {tariffs, coal, LNG, crude oil} + {retaliatory, impose, panic, retaliates, hurt}",
+    "Summary": "This theme observes China's imposition of retaliatory tariffs on American energy exports like coal and LNG. The framing generally dismisses the threat of these actions, arguing that Beijing is in a \"panic\" and \"retaliates\" poorly. Tweets assert that China desperately needs American energy to run its factories, meaning the tariffs will ultimately \"hurt\" their own economy more than the US."
+  },
+  "State-Level Obstruction of Domestic Pipeline Expansion and Energy Infrastructure": {
+    "Polarity": "anti-Democrat/Blue States",
+    "Pattern": "{Hochul, Healey, Newsom, Spilka, Democrats} + {Constitution Pipeline, pipelines, natural gas} + {standing in the way, blocking, punishing, fine, skyrocketing}",
+    "Summary": "This negative theme critiques Democratic state leaders like Kathy Hochul and Maura Healey for actively blocking natural gas pipelines. The discourse highlights that these governors are \"standing in the way\" of the Constitution Pipeline and other infrastructure projects. By opposing these expansions, leaders are framed as \"punishing\" residents with a \"fine\" or \"skyrocketing\" energy costs."
+  },
+  "The Inherent Unreliability and Danger of Wind and Solar Power": {
+    "Polarity": "anti-Renewables/Green Energy",
+    "Pattern": "{Texas, California, alarmists, bureaucrats} + {wind, solar, renewable energy, windmills} + {unreliable, blithering idiocy, froze, scrap metal}",
+    "Summary": "This critical theme attacks renewable energy as fundamentally \"unreliable,\" particularly in states like Texas and California. Users describe mandates for 100% renewable energy as \"blithering idiocy,\" noting instances where wind turbines \"froze\" during extreme winter weather. The framing argues that solar power will soon turn into acres of \"scrap metal,\" proving it is not the solution \"alarmists\" claim it to be."
+  },
+  "Skepticism of the Chernobyl Drone Strike and Alleged \"False Flags\"": {
+    "Polarity": "anti-Ukraine/Zelensky",
+    "Pattern": "{Zelenskyy, Ukraine, blob, Deep State} + {drone, Chernobyl, containment shell, nuclear plant} + {buying this, false-flag, blaming, fcked up}",
+    "Summary": "This conspiratorial theme centers on a \"drone\" strike that hit the \"containment shell\" of the \"Chernobyl\" nuclear plant. While Zelenskyy is \"blaming\" Russia, the narrative actively doubts this official story, asking \"Anyone buying this?\". The discourse suggests the attack was a \"false-flag\" orchestrated by the \"blob\" or \"Deep State\" to derail incoming peace talks, describing the act as highly \"fcked up\"."
+  },
+  "Seizing Ukrainian Energy Resources as Repayment for American Aid": {
+    "Polarity": "pro-USA / anti-Ukraine",
+    "Pattern": "{Trump, Washington, US, America} + {resource revenues, mineral resources, oil, gas, ports} + {control, payback, 50% cut, 100%}",
+    "Summary": "This theme focuses on extracting a direct return from Ukraine for previous American financial and military aid. The narrative promotes Trump's alleged plans to demand a \"50% cut\" or even \"100%\" of Ukraine's \"resource revenues,\" specifically their \"oil\" and \"gas\". Ukraine is framed strictly as a debtor that must surrender \"control\" of these assets to Washington as literal \"payback\"."
+  },
+  "The Symbolic Rebranding of the \"Gulf of America\"": {
+    "Polarity": "pro-USA",
+    "Pattern": "{Trump, POTUS, BP, Chevron} + {Gulf of America, Gulf of Mexico, offshore leases} + {renamed, chess, embraced, open for business}",
+    "Summary": "This positive theme celebrates President Trump's executive decision to formally change the \"Gulf of Mexico\" to the \"Gulf of America\". The discourse praises this as a brilliant \"chess\" move following the Biden administration's suspension of \"offshore leases\". The framing highlights that major energy corporations like \"BP\" and \"Chevron\" have officially \"embraced\" this new terminology, signaling that the region is definitively \"open for business\"."
+  },
+  "Vindicating \"America First\" Warnings at the Munich Security Conference": {
+    "Polarity": "pro-Vance / anti-EU",
+    "Pattern": "{Vance, JDVance, Heusgen, Euro politicians} + {Munich Security Conference, Russian gas, Russian energy} + {stony faced, shell shocked, glum-faced, crying, sneered, laughed}",
+    "Summary": "This highly saturated theme focuses on JD Vance's unapologetic address at the \"Munich Security Conference\". The narrative relishes the reaction of \"Euro politicians,\" describing them as \"stony faced,\" \"glum-faced,\" and \"shell shocked\". Chairman Christoph Heusgen is heavily mocked for \"crying\" during the event after famously having \"laughed\" and \"sneered\" at Trump's prior warnings regarding \"Russian gas\"."
+  },
+  "The Ideological Drive for Deindustrialization in Germany": {
+    "Polarity": "anti-Environmentalists/Leftists",
+    "Pattern": "{German leftists, protesters, environmentalists} + {natural gas, climate protection} + {chanting, down with, economic collapse, de-industrialization}",
+    "Summary": "This critical theme mocks \"German leftists\" and \"protesters\" who took to the streets ahead of parliamentary elections. The discourse repeatedly highlights their \"chanting\" of \"down with\" natural gas in favor of \"climate protection\" to frame them as completely out of touch with reality. Users argue that these activists are deliberately demanding an \"economic collapse\" and the further \"de-industrialization\" of their own country."
+  },
+  "The Necessity of Fossil Fuels for the AI Boom": {
+    "Polarity": "pro-Natural Gas/Tech Industry",
+    "Pattern": "{Big Tech, Microsoft, Meta, Exxon, Elon} + {natural gas, AI, data centers, renewable energy} + {quietly admitting, fantasy crumbles, surging, hungry, reliable}",
+    "Summary": "This positive theme emphasizes that \"natural gas\" is the only \"reliable\" energy source capable of powering the \"surging\" demands of \"AI\" and \"data centers\". The narrative highlights that entities like \"Big Tech\", \"Microsoft\", and \"Meta\" are \"quietly admitting\" that \"renewable energy\" alone is insufficient, exposing the movement as a \"fantasy\" that ultimately \"crumbles\" under real-world energy needs."
+  },
+  "Dismantling Bureaucratic Tyranny via the End of Chevron Deference": {
+    "Polarity": "pro-Deregulation/SCOTUS",
+    "Pattern": "{SCOTUS, courts, bureaucrats, administrative agencies} + {Chevron Deference, Chevron doctrine, laws, executive power} + {struck down, abuses, terrorized, rogue, fixed}",
+    "Summary": "This supportive theme celebrates \"SCOTUS\" and the \"courts\" for having \"struck down\" and \"fixed\" the \"Chevron Deference\". The discourse frames the previous regulatory system as a \"rogue\" apparatus where unelected \"bureaucrats\" and \"administrative agencies\" unconstitutionally created \"laws\" and \"terrorized\" American businesses. Removing this doctrine is viewed as the end of these administrative \"abuses\"."
+  },
+  "Framing \"Net Zero\" as a \"Sinister\" Global Delusion": {
+    "Polarity": "anti-Net Zero/Global Climate Mandates",
+    "Pattern": "{Chris Wright, US energy secretary, Miliband, Labour} + {Net Zero, green policies, renewables, green energy} + {sinister, lunacy, colossal failure, impoverishing, delusion, poorer}",
+    "Summary": "This theme amplifies \"US energy secretary\" \"Chris Wright\" in his declarations that \"Net Zero\" and \"green policies\" are absolute \"lunacy\" and a \"colossal failure\". The discourse universally frames the push for \"renewables\" as a \"sinister\" goal or \"delusion\" driven by figures like Ed \"Miliband\", arguing that such mandates are actively \"impoverishing\" citizens and making millions of households \"poorer\"."
+  },
+  "Skepticism Over the \"Bird Flu\" Egg Price Crisis and Mass Culls": {
+    "Polarity": "anti-Government/Media",
+    "Pattern": "{USDA, FDA, the left, farms} + {eggs, shell eggs, bird flu, HPAI, hens} + {eliminate, culling, surging, attack Trump, low}",
+    "Summary": "This critical theme questions the official narrative surrounding the \"surging\" price of \"eggs\" due to \"bird flu\" (or \"HPAI\") outbreaks. The discourse points out that the \"FDA\" states the risk to humans from \"shell eggs\" is actually \"low,\" casting doubt on why \"farms\" are being forced to \"eliminate\" or \"cull\" millions of \"hens\". Users suggest the crisis will be dishonestly used by \"the left\" to \"attack Trump\" over grocery inflation."
+  },
+  "The Strategic US-India Energy Alliance": {
+    "Polarity": "pro-USA/pro-India",
+    "Pattern": "{Trump, Modi, US, India, Adani} + {oil, natural gas, gas exports} + {leading supplier, bonanza, expensive deal, save}",
+    "Summary": "This theme highlights a new energy pact between Trump and Modi, aiming to make the US the \"leading supplier\" of oil and natural gas to India. Supporters frame this as a \"bonanza\" for American gas exporters, while critics cynically view it as an \"expensive deal\" primarily designed to \"save\" Adani instead of buying cheaper fuel elsewhere."
+  },
+  "Corporate Flight and the Destruction of State Refineries": {
+    "Polarity": "anti-California/Newsom",
+    "Pattern": "{Newsom, California, Dems, Chevron} + {refineries, gasoline, gas} + {leaving, shut down, nationalize, higher prices}",
+    "Summary": "This negative theme criticizes Gavin Newsom and California Dems for imposing extreme regulations that are driving corporations like Chevron into \"leaving\" the state. The discourse highlights that these mandates threaten to \"shut down\" their \"refineries\", which will ultimately lead to \"higher prices\" and absurd government policy loops to \"nationalize\" the facilities."
+  },
+  "Revitalizing Alaskan Energy Potential for Asian Markets": {
+    "Polarity": "pro-Alaska/Trump",
+    "Pattern": "{Trump, POTUS, Alaska, Japan, Taiwan} + {LNG, natural gas, oil} + {prioritizes, record number, business acumen, morning again, mitigate}",
+    "Summary": "This supportive theme celebrates Trump’s executive orders that \"prioritizes\" the development of Alaska's LNG and natural gas. Users praise his \"business acumen\" as Japan prepares to import a \"record number\" of Alaskan LNG, and Taiwan seeks to \"mitigate\" its trade surplus, with users enthusiastically declaring it is \"morning again\" for the state's energy sector."
+  },
+  "Alleged Sabotage of Global Undersea Energy Infrastructure": {
+    "Polarity": "anti-China",
+    "Pattern": "{China, communist China, Chinese, Wray} + {natural gas pipelines, undersea cables, energy sector} + {sabotage, infiltrated, incidents}",
+    "Summary": "This critical theme focuses on national security threats, amplifying reports from figures like Chris Wray that the \"Chinese\" have \"infiltrated\" the US \"energy sector\" and domestic infrastructure. Furthermore, vessels from \"communist China\" are actively linked to major \"incidents\" involving the deliberate \"sabotage\" of global \"natural gas pipelines\" and \"undersea cables\"."
+  },
+  "Domestic Financial Audits and the Eradication of Bureaucratic Waste": {
+    "Polarity": "pro-DOGE / anti-Government Waste",
+    "Pattern": "{DOGE, Elon, Musk, Trump} + {HUD money, toilet bowls, federal IT, PPP loans, taxpayer dollars} + {audit, misplaced, wasted, fraud, shell game, stolen}",
+    "Summary": "This highly positive theme focuses on \"DOGE\" and \"Elon\" Musk conducting a massive \"audit\" to eradicate domestic financial waste. The discourse targets specific absurdities like \"$1.9 Billion\" in \"misplaced\" \"HUD money\", $50,000 \"toilet bowls\" at the DoD, and \"wasted\" funds on outdated \"federal IT\". It praises the dismantling of this bureaucratic \"shell game\" to stop \"fraud\" and recover \"stolen\" \"taxpayer dollars\"."
+  },
+  "The \"Pay-for-Slay\" Shell Game and Defunding Terrorism": {
+    "Polarity": "anti-Palestinian Authority/Hamas",
+    "Pattern": "{Palestinian Authority, PA, Hamas, Abbas} + {pay-for-slay, humanitarian aid, gas, electricity} + {shell game, funnels, murder, steals, annex}",
+    "Summary": "This negative theme targets the \"Palestinian Authority\" (PA) and \"Hamas\". Users accuse the PA, led by \"Abbas\", of running a \"shell game\" to secretly continue \"pay-for-slay\" programs that \"funnels\" money to terrorists who \"murder\" Jews and Americans. The narrative demands halting all \"humanitarian aid\" because Hamas \"steals\" it, and insists on cutting off \"gas\" and \"electricity\" while moving to \"annex\" land until hostages are returned."
+  },
+  "Rampant Embezzlement and the Fraudulent Mismanagement of Western Aid": {
+    "Polarity": "anti-Ukraine (Corruption)",
+    "Pattern": "{Zelensky, Zelenskyy, Ukraine, Kiev, mayor} + {western aid, 95 billion dollars, gas transit, funds} + {fraud center, stole, scam, shell companies, shortage}",
+    "Summary": "This highly critical theme portrays \"Ukraine\" and \"Zelensky\" not as allies, but as architects of a global \"fraud center\". The discourse highlights that despite receiving \"95 billion dollars\" in \"western aid,\" the military suffers an \"artillery shell shortage\". The narrative emphasizes corruption, pointing to a \"mayor\" who \"stole\" millions and accusing officials of running a \"scam\" to hide embezzled \"funds\" and \"gas transit\" revenues in offshore \"shell companies\"."
+  },
+  "Establishing the \"National Energy Dominance Council\" and Reversing the LNG Pause": {
+    "Polarity": "pro-Trump/Deregulation",
+    "Pattern": "{Trump, POTUS, SecretaryWright, Burgum} + {National Energy Dominance Council, LNG exports, natural gas, oil leases} + {unleash, dominance, repealed, ended, nation-wrecking}",
+    "Summary": "This positive theme enthusiastically celebrates \"Trump\" and his cabinet—including \"Burgum\" and \"SecretaryWright\"—for taking rapid executive action to \"unleash\" American energy. The discourse highlights the creation of the \"National Energy Dominance Council\" and the immediate orders that \"repealed\" and \"ended\" the Biden administration's ban on \"LNG exports\". These actions are universally praised for stopping the left's \"nation-wrecking\" crusade and successfully restoring American energy \"dominance\"."
+  },
+  "Cognitive Decline and \"Puppet-Master\" Governance": {
+    "Polarity": "anti-Biden/Administration",
+    "Pattern": "{Biden, Joe Biden, Speaker Johnson, puppet-masters, Schumer} + {LNG, executive order, LNG exports} + {unaware, signed, halting, empty shell}",
+    "Summary": "This critical theme heavily amplifies Speaker Johnson's report that Joe Biden was completely \"unaware\" he had \"signed\" an \"executive order\" \"halting\" new \"LNG exports\". The discourse uses this anecdote to frame him as an \"empty shell\", arguing that unaccountable \"puppet-masters\" were secretly running the country and directing these destructive policies without his knowledge."
+  },
+  "The Economic and Geopolitical Miracles of Hydraulic Fracturing": {
+    "Polarity": "pro-Fracking/Fossil Fuels",
+    "Pattern": "{US, USA, Europe, EU, eco-lobby} + {fracking, natural gas} + {lowest ever, safe, expensive, hatchet job}",
+    "Summary": "This positive theme elevates \"fracking\" as the core technological savior of the American economy. The narrative repeatedly emphasizes that while \"Europe\" faces \"expensive\" energy, American \"natural gas\" prices have hit their \"lowest ever\" strictly because of this practice. The discourse actively defends the industry as \"safe\" and calls to reverse the \"hatchet job\" committed by the \"eco-lobby\"."
+  },
+  "Financial Accountability and Defamation Settlements for Legacy Media": {
+    "Polarity": "anti-Media/Legacy Press",
+    "Pattern": "{legacy media, ABC, George Stephanopoulos, Trump} + {15 million, money} + {justice, shell out, sorry, lies}",
+    "Summary": "This highly specific negative theme targets the \"legacy media\", specifically \"ABC\" and anchor \"George Stephanopoulos\", for allegedly spreading deliberate misinformation. The discourse enthusiastically highlights that they had to say \"sorry\" and \"shell out\" \"$15 million\" to \"Trump\" for their \"lies\". This event is framed as a long-overdue moment of \"justice\" where the mainstream press faces financial consequences."
+  },
+  "The Collapse of Forced EV Mandates and Consumer Market Reality": {
+    "Polarity": "anti-EVs/Automakers",
+    "Pattern": "{SecDuffy, Sean Duffy, Volkswagen, Audi, USDOT} + {auto mandates, EV goals, gas engines} + {turning back, eliminating, sticking with, delay}",
+    "Summary": "This theme critiques government-forced transitions to electric vehicles, praising \"SecDuffy\" and the \"USDOT\" for \"turning back\" and \"eliminating\" the \"auto mandates\". The narrative points out the market reality that major automakers like \"Volkswagen\" and \"Audi\" are actively choosing to \"delay\" their \"EV goals\" in Europe. Instead, these companies are praised for \"sticking with\" reliable \"gas engines\"."
+  },
+  "The Deliberate Sabotage of the Nord Stream Pipeline": {
+    "Polarity": "anti-Biden/USA",
+    "Pattern": "{US, USA, Biden} + {Nordstream pipeline, Nord Stream pipeline, NS2} + {blows up, blown up, blowing up, severed, scandal}",
+    "Summary": "This critical theme frames the destruction of the Nord Stream pipeline as a deliberate act by the \"US\" or \"Biden\". The discourse directly points to how the administration \"blows up\" or \"severed\" the \"Nordstream pipeline\", resulting in a massive \"scandal\" that actively forced allied European nations into expensive energy dependencies."
+  },
+  "The Ineffectiveness of Western Sanctions and the Sino-Russian Energy Alliance": {
+    "Polarity": "neutral-China/Russia",
+    "Pattern": "{China, Chinese Foreign Minister, Wang Yi} + {Russian gas, Russian natural gas} + {useless, buy, purchasing, commitment, isolating}",
+    "Summary": "This theme highlights that Western sanctions aimed at \"isolating\" Moscow are completely \"useless\". Tweets emphasize statements from \"Wang Yi\" and the \"Chinese Foreign Minister\" affirming \"China\" and its steadfast \"commitment\" to continue \"purchasing\" or to \"buy\" \"Russian gas\", because no other country can realistically meet the massive energy needs of their people."
+  },
+  "Legislative Action to Protect Fracking and LNG Exports from Presidential Bans": {
+    "Polarity": "pro-Congress/GOP",
+    "Pattern": "{US House, House, Congress, Republicans, 16 Democrats} + {fracking, LNG approval process, oil and natural gas} + {passed, protect, block, depoliticize, rein in}",
+    "Summary": "This supportive theme celebrates the \"US House\" and \"Congress\" for taking decisive action to \"rein in\" arbitrary executive overreach. Users highlight that the House successfully \"passed\" legislation—with \"16 Democrats\" joining \"Republicans\"—to \"block\" the president from banning \"fracking\" and to \"depoliticize\" the \"LNG approval process\", strictly acting to \"protect\" the domestic energy sector."
+  },
+  "Punitive Bans on Residential Gas Appliances and Grassroots Resistance": {
+    "Polarity": "anti-Local Government/Blue States",
+    "Pattern": "{Ashland, Washington state, California, bureaucrats, government} + {natural gas, gas furnace, water heater, gas appliances} + {punish, fine, ban, banned, protecting}",
+    "Summary": "This theme focuses on local areas like \"California\" and \"Ashland\" instituting a \"ban\" on residential \"natural gas\" use. The narrative expresses outrage over out-of-touch \"bureaucrats\" and \"government\" bodies that \"punish\" citizens with a $4,000 \"fine\" for wanting a \"gas furnace\" or \"water heater\". Conversely, it elevates \"Washington state\" voters for gathering over 400,000 signatures and actively \"protecting\" consumer choice from these mandates."
+  },
+  "The Misappropriation of Taxpayer Funds through Homelessness \"Shell Companies\"": {
+    "Polarity": "anti-California/Local Government",
+    "Pattern": "{California, San Diego} + {homelessness, tax money} + {shell company, money laundering scheme, steal, behind bars}",
+    "Summary": "This critical theme alleges a massive \"money laundering scheme\" within \"California\" and \"San Diego\" local governments. Users express intense outrage that \"tax money\" designated to fight \"homelessness\" is actually being sent to an offshore \"shell company\". The narrative aggressively accuses officials who \"steal\" these funds, demanding they be put \"behind bars\"."
+  },
+  "The Necessity of Nuclear Power for Reliable \"Base Load\" Energy": {
+    "Polarity": "pro-Nuclear Energy",
+    "Pattern": "{Rolls-Royce, Britain, US} + {nuclear power plants, nuclear power generation, SMRs, base load} + {safe new, reliable, prosperity, rich quick}",
+    "Summary": "This positive theme advocates for the expansion of \"nuclear power generation\" to supply reliable \"base load\" electricity. The discourse calls to build \"safe new\" \"nuclear power plants\" and partner with companies like \"Rolls-Royce\" to roll out \"SMRs\". Users frame this technological revival as a requirement for future economic \"prosperity\" and a way to make the nation \"rich quick\"."
+  },
+  "The Economic War on Family Farms and Vulnerable Pensioners": {
+    "Polarity": "anti-UK/Labour",
+    "Pattern": "{Starmer, Milliband, UKLabour} + {family farms, pensioners, energy bills} + {jeopardise, criminal, cannot afford to heat, destroying, tanking}",
+    "Summary": "This negative theme critiques \"UKLabour\" leaders like \"Starmer\" and \"Milliband\" for their destructive energy agenda. The narrative highlights a severe betrayal of agriculture, arguing they actively \"jeopardise\" \"family farms\" for green subsidies. Furthermore, the discourse frames it as \"criminal\" that engineered spikes in \"energy bills\" mean \"pensioners\" \"cannot afford to heat\" their homes while the economy is \"tanking\"."
+  },
+  "Allegations of Bioweapon Research and \"EcoHealth\" Shell Companies": {
+    "Polarity": "anti-Fauci/Public Health",
+    "Pattern": "{Fauci} + {Wuhan Lab, bio weapon research, Covid, Ecohealth} + {funded, shell company, looking for a weapon}",
+    "Summary": "This conspiratorial theme targets \"Fauci\" and the public health establishment regarding the origins of \"Covid\". The discourse alleges that Fauci deliberately \"funded\" dangerous \"bio weapon research\" at the \"Wuhan Lab\". He is accused of utilizing \"Ecohealth\" as a secretive \"shell company\" while actively \"looking for a weapon\" with taxpayer dollars."
+  },
+  "The Corrupt Use of Foreign \"Shell Companies\"": {
+    "Polarity": "anti-Biden Family",
+    "Pattern": "{Hunter, Big Guy, Biden Crime Family, Bidens} + {bank records, foreign deals, shell companies, Sinopec} + {corruption, funneled, hidden, laundered}",
+    "Summary": "This critical theme heavily targets the \"Biden Crime Family\", specifically \"Hunter\" and the \"Big Guy\", for their alleged deep-seated \"corruption\". The discourse emphasizes \"bank records\" showing the Bidens received tens of millions from \"foreign deals\" like \"Sinopec\" and a Romanian oligarch. The narrative asserts this money was deliberately \"funneled\" and \"hidden\" through an intricate network of offshore \"shell companies\"."
+  },
+  "Defending Border Patrol Operations and Condemning Intel Leaks": {
+    "Polarity": "pro-Border Patrol / anti-Sanctuary Policies",
+    "Pattern": "{BP, ICE, Homan, Border Patrol agents} + {intel, border, streets} + {taking, child rapists, violent criminals, alert these scum, endanger, killed, fired upon, cowards}",
+    "Summary": "This theme morally elevates \"BP\" and \"ICE\" agents under Tom \"Homan\", praising them for \"taking\" \"violent criminals\" and \"child rapists\" off the \"streets\". Conversely, the narrative critiques \"cowards\" for using \"intel\" to \"alert these scum\", which serves to actively \"endanger\" law enforcement. The discourse highlights the extreme dangers faced by agents at the \"border\", citing incidents where they were \"fired upon\" by cartel gunmen and mourning those who were \"killed\"."
+  },
+  "Ideological \"Butchering\" of the British Education System": {
+    "Polarity": "anti-UK Labour (Bridget Phillipson)",
+    "Pattern": "{BP, Bridget Phillipson, Marxists, Labour} + {schools, education, academies, school places} + {butcher, taking away, shameless, victims, inept}",
+    "Summary": "This specific UK-centric theme critiques \"Labour\" Education Secretary \"Bridget Phillipson\" (often referred to as \"BP\"). The framing accuses \"Marxists\" of acting to \"butcher\" \"schools\" by \"taking away\" the freedom of successful \"academies\". Users express outrage that her policies ignore real results, warning that her \"shameless\" and \"inept\" ideology will ultimately create millions of child \"victims\" in the \"education\" system."
+  },
+  "The Financial Collapse of the Offshore Wind \"Scam\"": {
+    "Polarity": "anti-Wind Energy",
+    "Pattern": "{Shell, Van Drew} + {offshore wind, wind turbine, renewable energy} + {wrote off, SCAM, fanaticism, withdraws, blow}",
+    "Summary": "This negative theme focuses on the economic failure of \"offshore wind\" projects, highlighting that major corporations like \"Shell\" recently \"wrote off\" $1 billion in investments and formally \"withdraws\" from New Jersey projects. The discourse enthusiastically frames the industry as a taxpayer-funded \"SCAM\" and a product of \"wind turbine\" \"fanaticism\". The retreat is celebrated as a major \"blow\" to unprofitable \"renewable energy\" initiatives."
+  },
+  "The Ukraine Conflict as a Covert Corporate Resource Grab": {
+    "Polarity": "anti-Globalist/anti-War",
+    "Pattern": "{NATO, BlackRock, The West} + {gas, lithium, uranium, farmland, natural resources} + {looting, pawn, control}",
+    "Summary": "This highly critical theme argues that the ongoing conflict is ultimately about the \"control\" of Ukraine's vast \"natural resources,\" specifically pointing to \"gas,\" \"lithium,\" and \"uranium\". The discourse repeatedly highlights that entities like \"BlackRock,\" \"NATO,\" and \"The West\" are actively \"looting\" the nation's \"farmland\" and economy. The rhetorical framing asserts that these forces are merely using Ukraine as a \"pawn\" to dominate its energy sector rather than defending democracy."
+  },
+  "The Decimation of Domestic Fertilizer Production and the Threat to Food Security": {
+    "Polarity": "anti-Net Zero / pro-Agriculture",
+    "Pattern": "{Yara, communists} + {fertiliser, ammonia, natural gas} + {mothballing, famine, weapon}",
+    "Summary": "This negative theme highlights the severe consequences of high \"natural gas\" prices on agriculture, specifically noting that \"ammonia\" is a key component of \"fertiliser\". Users express intense concern over European giants like \"Yara\" permanently \"mothballing\" their plants due to these energy costs. The framing warns that \"communists\" and political elites are actively using \"famine\" as a \"weapon\" to destroy the farming industry and jeopardize the food supply."
+  },
+  "The Historic Betrayal and Engineered Deindustrialization of Germany": {
+    "Polarity": "anti-Merkel/German Leadership",
+    "Pattern": "{Angela Merkel, CDU, former Chancellor} + {Russian gas, nuclear reactors, Gazprom} + {hooked, shut down, de-industrialisation, enabler}",
+    "Summary": "This critical theme assigns direct historical blame to \"Angela Merkel\" and the \"CDU\" for Germany's current economic disaster. The narrative aggressively critiques her for getting the country \"hooked\" on cheap \"Russian gas\" while she \"shut down\" perfectly working \"nuclear reactors\". Users frame this past leadership, noting a \"former Chancellor\" sat on the board of \"Gazprom,\" as the greatest \"enabler\" of Putin's regime, arguing it directly caused Germany's current \"de-industrialisation\"."
+  },
+  "The Self-Inflicted Crisis of European Gas Storage Mandates": {
+    "Polarity": "anti-EU (Bureaucracy)",
+    "Pattern": "{EU, European Union} + {gas supplies, storage targets, markets} + {regulatory interventions, distort, complete failure}",
+    "Summary": "This theme critiques the \"EU\" for bureaucratic actions that actively \"distort\" energy \"markets\". The discourse highlights that \"regulatory interventions,\" which mandated strict \"storage targets\" out of worry over \"gas supplies,\" ended up backfiring and leaving Europe with expensive gas during mild winters. This heavy-handed government planning is rhetorically framed as a \"complete failure\" of policy that harmed consumers."
+  }
+}

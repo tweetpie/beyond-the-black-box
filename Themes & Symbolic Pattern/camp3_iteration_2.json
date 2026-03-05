@@ -1,0 +1,177 @@
+{
+  "The Retaliatory Trade War": {
+    "Polarity": "pro-China",
+    "Pattern": "{China, Xi Jing Ping} + {coal, LNG, Liquefied natural gas, natural gas} + {tariffs, 15%, 10-15%, imposes, retaliates, mother of all tariffs}",
+    "Summary": "This narrative focuses on China's immediate geopolitical response to newly enacted US trade policies. The discourse strictly tracks breaking news and commentary regarding \"Xi Jing Ping\" and \"China\" as they aggressively push back against the United States by imposing \"10-15%\" retaliatory \"tariffs\" (dubbed the \"mother of all tariffs\") specifically targeting American \"LNG\", \"coal\", and \"natural gas\" exports."
+  },
+  "The Shell Nigeria Environmental Crisis": {
+    "Polarity": "anti-IOC",
+    "Pattern": "{Shell, shell boss} + {Nigeria, Niger Delta} + {activists, polluting, clean up, oil spillage, demand justice}",
+    "Summary": "This theme highlights widespread activist backlash and outrage directed at the international oil company Shell for its environmental record in Africa. The narrative specifically tracks instances where \"activists\" physically confront \"Shell\" executives on stage, demanding they \"pay for clean up\" and be held accountable for severe \"oil spillage\" and \"polluting\" across \"Nigeria\" and the \"Niger Delta\"."
+  },
+  "The Self-Inflicted Energy Crisis and De-industrialization": {
+    "Polarity": "anti-EU",
+    "Pattern": "{EU, Europe, Ursula von der Leyen, Baltic morons} + {natural gas, Russian gas, energy grid, LNG} + {economic suicide, de-industrialization, soaring, 2-YEAR HIGH, crumbling}",
+    "Summary": "This narrative critiques the European Union, specifically targeting leaders like \"Ursula von der Leyen\", for causing a self-inflicted energy crisis and driving the \"de-industrialization\" of Europe, particularly Germany. Commentators frequently mock European nations and \"Baltic morons\" for committing \"economic suicide\" by voluntarily disconnecting from \"cheap\" Russian gas. The discourse frames the EU as a subservient vassal that has sacrificed its own global competitiveness only to become heavily dependent on \"expensive\" US LNG."
+  },
+  "Imperialism and the Exploitation of Gaza's Natural Gas": {
+    "Polarity": "anti-USA",
+    "Pattern": "{US, Trump, Israel, Zionist} + {natural gas, Gaza Marine, gas reserves, fossil fuels} + {genocide, annexation, stealing, divvy up, confiscate}",
+    "Summary": "This highly critical theme accuses the United States and Israel of prosecuting the war in Gaza for imperialistic and economic gains rather than self-defense. The discourse repeatedly asserts that the \"genocide\" and \"annexation\" of Palestinian land are driven by a desire to \"confiscate\" MASSIVE untapped \"natural gas\" resources located in the \"Gaza Marine\" gas field. Commentators claim that Donald Trump and \"Zionist\" actors aim to \"divvy up\" billions in \"gas reserves\" to transform Israel into a major energy hub while building beachfront resorts."
+  },
+  "Energy Resilience and Diplomatic Dominance": {
+    "Polarity": "pro-Russia",
+    "Pattern": "{Russia, Putin} + {Russian gas, LNG, natural gas, exports} + {record high, never stop purchasing, cheap, reliable}",
+    "Summary": "This narrative elevates Russia by highlighting its economic resilience and continued dominance in the global energy market despite Western sanctions. Discourse frequently emphasizes that Russia continues to export a \"record high\" level of \"LNG\" to Europe (often via intermediary nations like France or Spain) and that nations like China will \"never stop purchasing\" \"Russian gas\". The framing portrays Russia as an irreplaceable global energy powerhouse whose \"cheap\" and \"reliable\" commodities are so vital that the West's economic warfare has failed."
+  },
+  "Nord Stream Sabotage and Proxy War Profiteering": {
+    "Polarity": "anti-USA",
+    "Pattern": "{US, Washington, Biden administration, USA} + {Nord Stream, pipeline, Russian gas, American LNG} + {blew up, proxy war, de-industrializing, subservient, expensive}",
+    "Summary": "This narrative frames the United States as a predatory ally and saboteur in the global energy landscape. The discourse widely alleges that the US intentionally \"blew up\" the \"Nord Stream\" pipelines to sever the synergistic economic relationship between Germany and Russia. The framing insists that the \"proxy war\" in Ukraine was manufactured by \"Washington\" to keep Europe \"subservient\", cut off its access to reliable \"Russian gas\", and forcefully pivot the continent into buying \"American LNG\" at significantly \"expensive\" prices."
+  },
+  "The Compressed Natural Gas (CNG) Transition and Infrastructure Boom": {
+    "Polarity": "pro-Nigeria",
+    "Pattern": "{Nigeria, Federal Government, NNPCL, Tinubu} + {CNG, Compressed Natural Gas, mini LNG, pipeline} + {economic growth, prosperity, transition, investment, approval}",
+    "Summary": "This narrative highlights Nigeria's domestic push to leverage its gas reserves for national economic growth. The discourse focuses on the \"Federal Government\" and \"NNPCL\" driving \"investment\" and \"approval\" for \"CNG\" (Compressed Natural Gas) initiatives and \"mini LNG\" plants. The framing elevates these infrastructure developments, including the Trans-Saharan \"pipeline\", as pathways to \"prosperity\", \"economic growth\", and a successful energy \"transition\" for the country."
+  },
+  "Resource Sovereignty and Anti-Colonial Grievances": {
+    "Polarity": "pro-Biafra",
+    "Pattern": "{Biafra, Biafrans, Simon Ekpa, USB} + {natural gas, crude oil, resources} + {belongs to, stolen, genocide, sovereignty, release}",
+    "Summary": "This highly polarized theme is driven by separatist supporters who assert that the \"natural gas\" and \"crude oil\" located in the region strictly \"belongs to\" \"Biafra\" and \"Biafrans\". The discourse frequently frames the Nigerian government and Western actors as perpetrating \"genocide\" and ensuring resources are \"stolen\". Furthermore, commentators persistently demand the \"release\" of \"Simon Ekpa\" (referred to as PM of the USB), linking the struggle for energy \"resources\" directly to the fight for political \"sovereignty\"."
+  },
+  "The Ukrainian Resource Grab and Reparations": {
+    "Polarity": "anti-USA",
+    "Pattern": "{US, Trump, America, Washington} + {natural gas, minerals, rare earth elements, resources} + {reparations, 100%, victim, financial interest, takeover}",
+    "Summary": "This critical narrative alleges that the United States is using the Ukraine conflict to forcefully extract economic concessions. Discourse highlights claims that the \"US\" is demanding \"100%\" of the \"financial interest\" in Ukraine's \"minerals\" and \"natural gas\" as a form of \"reparations\". The framing characterizes Washington as an imperialistic power, explicitly describing Ukraine as a \"victim\" that is being forced into handing over its \"resources\" and \"rare earth elements\" to American corporations."
+  },
+  "\"Drill Baby Drill\" and Energy Dominance": {
+    "Polarity": "pro-USA",
+    "Pattern": "{US, Trump, Chris Wright, Washington} + {LNG, natural gas, exports, energy} + {drill baby drill, tremendous, deregulating, lunacy, open for business}",
+    "Summary": "This supportive narrative focuses on the incoming Trump administration's aggressive push to expand American fossil fuel production and roll back climate initiatives. The discourse highlights actors like \"Trump\" and \"Chris Wright\" prioritizing \"deregulating\" the \"energy\" sector and boosting \"LNG\" \"exports\". The framing champions policies summarized by the slogan \"drill baby drill,\" portraying natural gas expansion as a \"tremendous\" economic win while dismissing Net Zero goals as \"lunacy\"."
+  },
+  "Energy Scams and Western Dependency": {
+    "Polarity": "anti-Ukraine",
+    "Pattern": "{Ukraine, Kiev, Zelensky} + {gas production, natural gas, gas reserves} + {lost 40%, Ukroscam 101, ridiculous, dependent}",
+    "Summary": "This narrative critiques Ukraine's handling of its energy infrastructure and its reliance on Western financial aid. Following Russian strikes that caused the country to have \"lost 40%\" of its domestic \"gas production\", commentators mock the arrangement where \"Kiev\" uses EU funds to buy \"natural gas\" back from Europe. The discourse frames this cycle as \"ridiculous\" and labels it \"Ukroscam 101\", portraying \"Ukraine\" and \"Zelensky\" as highly \"dependent\" on European imports while wasting Western resources."
+  },
+  "The Missed LNG Export Opportunity": {
+    "Polarity": "anti-Canada",
+    "Pattern": "{Canada, Trudeau, Liberals, Carney} + {LNG, pipelines, natural gas} + {block, stupidity, handicapped, vulnerable}",
+    "Summary": "This narrative strongly critiques the Canadian government, specifically \"Trudeau\", the \"Liberals\", and advisor Mark \"Carney\", for suppressing the domestic fossil fuel industry. The discourse accuses the administration of working for years to \"block\" \"pipelines\" and \"natural gas\" projects, a policy approach that commentators frame as ideological \"stupidity\". Users argue these policies have left \"Canada\" economically \"handicapped\" and \"vulnerable\" to US tariffs, having lost out on massive global \"LNG\" export opportunities to the United States and other nations."
+  },
+  "Corporate Profiteering and the Reversal of Green Goals": {
+    "Polarity": "anti-BigOil",
+    "Pattern": "{BP, Shell, Exxon, Chevron} + {renewable energy, green targets, climate change, emissions} + {record profits, profiteering, scrapping, kill us all}",
+    "Summary": "This highly critical theme targets major energy corporations like \"BP\", \"Shell\", \"Exxon\", and \"Chevron\" for prioritizing shareholder wealth over environmental responsibilities. The discourse highlights widespread outrage as these companies post \"record profits\" while simultaneously \"scrapping\" their \"green targets\" and actively cutting investments in \"renewable energy\". The framing portrays the oil giants as engaging in dangerous \"profiteering\" that ignores \"climate change\", with extreme activist sentiment claiming their continued \"emissions\" and fossil fuel expansions mean they are going to \"kill us all\"."
+  },
+  "Front Organizations and Shell Companies": {
+    "Polarity": "anti-USAID",
+    "Pattern": "{USAID, US, Washington} + {shell companies, grant money, nonprofit} + {scam, laundered, busted, misusing}",
+    "Summary": "This critical narrative accuses \"USAID\" of operating as a front for illicit American foreign intervention and regime change. The discourse claims the agency acts like a \"Panama Papers\" style network of \"shell companies\" that has \"laundered\" \"grant money\" to orchestrate events like the Cuban Spring. The framing characterizes these \"nonprofit\" organizations as a global \"scam,\" emphasizing that these groups have been \"busted\" for \"misusing\" taxpayer funds to advance \"Washington\" intelligence objectives rather than providing genuine global aid."
+  },
+  "The \"Net Zero\" Backlash and Energy Impoverishment": {
+    "Polarity": "anti-UK",
+    "Pattern": "{UK, Britain, Labour, Ed Miliband} + {Net Zero, natural gas, green energy} + {lunacy, sinister, ripped off, poorer}",
+    "Summary": "This narrative sharply critiques the UK's climate policies, specifically targeting \"Ed Miliband\" and the \"Labour\" party for aggressively pushing \"Net Zero\" targets. The discourse amplifies comments from the US Energy Secretary describing these initiatives as \"lunacy\" and a \"sinister\" goal. The framing portrays the transition away from \"natural gas\" and toward heavily subsidized \"green energy\" as a vanity project that will ultimately leave British households \"poorer\" and feeling \"ripped off\"."
+  },
+  "The Modi-Trump Deal and Energy Dominance": {
+    "Polarity": "pro-USA",
+    "Pattern": "{US, Trump, India, Modi} + {LNG, oil, natural gas} + {leading supplier, groundbreaking, replaces, increasing}",
+    "Summary": "This theme tracks the diplomatic and economic developments between Donald \"Trump\" and Indian Prime Minister \"Modi\", focusing on a \"groundbreaking\" bilateral agreement. The narrative highlights that the \"US\" is maneuvering to become the \"leading supplier\" of \"oil\" and \"natural gas\" to \"India\". Commentators frame this deal as a strategic victory that successfully \"replaces\" Russian energy dominance and guarantees \"increasing\" American \"LNG\" exports to a major global market."
+  },
+  "Continental Resource Wealth and Potential": {
+    "Polarity": "pro-Africa",
+    "Pattern": "{Africa} + {raw material, gold, oil, natural gas} + {owns 90%, rich, reserve, another planet}",
+    "Summary": "This supportive narrative elevates \"Africa\" by highlighting its vast, unparalleled wealth of \"raw material\" and natural resources. The discourse repeatedly lists the continent's staggering \"reserve\" statistics, claiming it \"owns 90%\" of global raw materials, including massive amounts of \"gold\", \"oil\", and \"natural gas\". The framing instills a sense of continental pride, describing Africa as being so exceptionally \"rich\" that it is truly like \"another planet\"."
+  },
+  "Climate Protests and Economic Collapse": {
+    "Polarity": "anti-Germany",
+    "Pattern": "{German leftists, protesters, Munich} + {natural gas, climate protection} + {down with, economic collapse, radical, decrease}",
+    "Summary": "This highly critical narrative mocks \"radical\" \"German leftists\" and \"protesters\" who recently flooded the streets of \"Munich\". The discourse tracks activists chanting \"up with\" \"climate protection\" and \"down with\" \"natural gas\". Commentators frame these demands as disastrous and detached from economic reality, warning that such policies will intentionally trigger an \"economic collapse\" and further \"decrease\" the nation's industrial output."
+  },
+  "The Trans-Saharan Gas Pipeline (TSGP)": {
+    "Polarity": "pro-Africa",
+    "Pattern": "{Nigeria, Algeria, Niger, Africa} + {natural gas, gas pipeline, TSGP} + {construct, transport, succeed}",
+    "Summary": "This supportive narrative highlights the collaborative, multi-billion-dollar infrastructure agreement between African nations to build the Trans-Saharan Gas Pipeline (TSGP). The discourse tracks the progress of \"Nigeria,\" \"Niger,\" and \"Algeria\" as they work to \"construct\" a 4,400-kilometer \"gas pipeline\" to \"transport\" \"natural gas\" directly to Europe. Commentators frame the mega-project as a major geopolitical win that will ultimately help \"Africa\" \"succeed\" on the global energy stage."
+  },
+  "The \"BP\" (Blood Pressure) Health Crisis": {
+    "Polarity": "pro-Citizens",
+    "Pattern": "{men, youth, people} + {BP, blood pressure, hypertension} + {silent killer, high, check, dying}",
+    "Summary": "Emerging as a highly viral artifact of keyword polysemy (where \"BP\" refers to Blood Pressure rather than British Petroleum), this domestic narrative focuses on a widespread public health crisis. The discourse urges \"men,\" \"youth,\" and everyday \"people\" to routinely \"check\" their \"BP\" and \"blood pressure\". Users frame \"hypertension\" as a \"silent killer\" that is causing individuals to be \"dying\" inside from \"high\" stress levels, heartbreak, and harsh economic realities."
+  },
+  "Weaponized Shelling and Civilian Casualties": {
+    "Polarity": "anti-Israel",
+    "Pattern": "{Israel, IDF, Israeli forces} + {shell, tear gas, gas bombs, artillery shell} + {targeted, killed, injuring, amputated}",
+    "Summary": "This highly critical narrative tracks military engagements where the terms \"shell\" and \"gas\" refer to munitions rather than energy commodities. The discourse accuses \"Israel\" and \"Israeli forces\" of severe human rights violations, highlighting specific incidents where Palestinian civilians, children, and journalists were brutally \"targeted\". The framing amplifies outrage over victims being \"killed,\" \"injuring\" them, or having limbs \"amputated\" by an \"artillery shell,\" \"tear gas,\" and \"gas bombs\" during military raids and bombardments."
+  },
+  "Global Energy Monopoly and Anti-US Alignment": {
+    "Polarity": "pro-BRICS",
+    "Pattern": "{BRICS, Russia, China, India} + {oil, natural gas, energy supplies, coal} + {nightmare, unite, collapse}",
+    "Summary": "This narrative champions the geopolitical alignment of \"BRICS\" nations as a direct threat to American global hegemony. The discourse emphasizes that if \"Russia,\" \"China,\" and \"India\" successfully \"unite\" their control over global \"oil,\" \"coal,\" and \"natural gas\" \"energy supplies,\" it will become a strategic \"nightmare\" for Washington. Commentators frame this alliance as an unstoppable force that will ultimately cause the US-led economic system to \"collapse\"."
+  },
+  "The Russian Grid Disconnection and Price Surges": {
+    "Polarity": "anti-Baltics",
+    "Pattern": "{Baltic leadership, Baltic morons, Estonia, Lithuania, Latvia} + {Russian grid, energy market, LNG, electricity} + {disconnected, sold out, soar, double, completely stopped}",
+    "Summary": "This critical narrative focuses on the recent decision by Baltic nations to sever their electrical and energy ties with Russia. The discourse mocks \"Baltic morons\" and the \"Baltic leadership\" in \"Estonia,\" \"Lithuania,\" and \"Latvia\" for having voluntarily \"disconnected\" from the \"Russian grid\". Commentators frame this move as an ideological stunt that has caused the region to have \"sold out\" its \"energy market\" to American interests, resulting in \"LNG\" and \"electricity\" prices that \"soar\" and \"double,\" causing local industrial production to have \"completely stopped\"."
+  },
+  "The \"Hollow Shell\" Metaphor Polysemy": {
+    "Polarity": "anti-Institution",
+    "Pattern": "{Democrats, ABC, Council, club, father-in-law} + {shell, hollowed out shell} + {former self, hollow, pillaged, broken down, ruined}",
+    "Summary": "Emerging as another viral artifact of keyword polysemy (where the keyword refers to a depleted state rather than the energy corporation), this theme tracks widespread disillusionment with various public figures and organizations. The discourse frequently describes political entities like the \"Democrats,\" media organizations like the \"ABC,\" local \"Council\" governance, or even a traumatized \"father-in-law\" as a \"shell\" or a \"hollowed out shell\". The framing portrays these subjects as being \"broken down,\" \"pillaged,\" and \"ruined,\" reduced to a mere \"hollow\" remnant of their \"former self\"."
+  },
+  "The US-Japan LNG Partnership": {
+    "Polarity": "pro-USA",
+    "Pattern": "{US, Trump, Washington, PM of Japan} + {LNG, fossil fuels, American LNG, natural gas} + {record amount, binding, wealthy, eat Canada's lunch}",
+    "Summary": "This narrative highlights the emerging geopolitical and economic alliance between the United States and Japan under the Trump administration. The discourse tracks how \"Trump\" and \"Washington\" are leveraging \"American LNG\" and \"fossil fuels\" to export a \"record amount\" to the \"PM of Japan\". Commentators frame this agreement as a strategic victory that will make the US \"wealthy\" while \"binding\" regional Asian allies, simultaneously mocking Canadian leadership by claiming Trump will \"eat Canada's lunch\" on global \"natural gas\" exports."
+  },
+  "The Biological \"Shell\" Polysemy": {
+    "Polarity": "pro-Nature",
+    "Pattern": "{Turtles, Tortoise, conch, Nazca} + {shells, shell} + {feel pain, inner structure, bumpy, effigy}",
+    "Summary": "As a tertiary artifact of keyword polysemy, this non-political narrative captures viral educational and historical tweets discussing actual animal shells. The discourse highlights biological and structural facts about \"Turtles,\" the \"Tortoise,\" and the \"conch,\" explaining how their \"shells\" and \"inner structure\" function in nature. The framing focuses on spreading ecological and historical awareness—such as noting that turtles can actually \"feel pain\" through their \"shell\"—or sharing ancient cultural artifacts like a \"Nazca\" \"effigy\" carved from \"shell\"."
+  },
+  "The \"SSH\" (Secure Shell) Polysemy": {
+    "Polarity": "pro-Tech",
+    "Pattern": "{cybersecurity professionals, sysadmins, programmers} + {SSH, Secure Shell, Shell} + {secure access, programming languages, backbone}",
+    "Summary": "Highlighting another instance of keyword overlap, this niche narrative surfaces from the tech and cybersecurity communities discussing the \"Shell\" command-line interface. The discourse tracks \"programmers,\" \"sysadmins,\" and \"cybersecurity professionals\" highlighting the utility of \"SSH\" (or \"Secure Shell\"). The framing is strictly educational, elevating \"Shell\" as a top-ranked entry among \"programming languages\" and the essential \"backbone\" for achieving \"secure access\" to remote systems."
+  },
+  "The \"Shell Game\" Political Deception": {
+    "Polarity": "anti-Establishment",
+    "Pattern": "{USAID, CIA, Trump, DOGE} + {shell companies, grant money, government agencies} + {shell game, scammed, misusing, looted}",
+    "Summary": "This narrative employs the \"shell game\" and \"shell companies\" metaphors to critique systemic political deception and financial mismanagement. The discourse accuses actors like \"USAID\", the \"CIA\", and \"Trump\" of obscuring their true agendas by shuffling \"grant money\" and dismantling \"government agencies\". Commentators frame these operations as a massive grift where the taxpayer is ultimately \"scammed\", \"misusing\" funds, or having resources \"looted\" through complex, unaccountable networks."
+  },
+  "The Artillery \"Shell\" Polysemy and Ammunition Shortages": {
+    "Polarity": "anti-War",
+    "Pattern": "{Ukraine, Russia, Zelensky, NATO} + {artillery shell, 155mm, gunpowder, shell casings} + {shell, shortage, detonate, killed}",
+    "Summary": "Highlighting another facet of keyword polysemy, this narrative tracks the intense military conflict between \"Ukraine\" and \"Russia\" by focusing strictly on munitions. The discourse frequently discusses the severe \"shortage\" of \"gunpowder\" and \"155mm\" rounds, criticizing \"NATO\" and \"Zelensky\" for battlefield supply failures. The framing tracks the deadly realities of the proxy war, describing how forces repeatedly \"shell\" civilian areas or critical infrastructure, resulting in victims being \"killed\" or being forced to \"detonate\" weapons for propaganda."
+  },
+  "Balancing Global Energy Alliances": {
+    "Polarity": "pro-India",
+    "Pattern": "{India, Modi, Hardeep Singh Puri} + {natural gas, petroleum, LNG, AK-203} + {hub, localization, leading supplier, replaces}",
+    "Summary": "This narrative focuses on India's strategic maneuvering to secure its economic and defense interests by balancing relations with both the US and Russia. The discourse tracks figures like \"Modi\" and energy minister \"Hardeep Singh Puri\" as they aim to make \"India\" a major \"hub\" for \"petroleum\" and \"natural gas\". The framing highlights a dual geopolitical approach: embracing American \"LNG\" imports (where the US aims to be the \"leading supplier\" that \"replaces\" others) while simultaneously ensuring the \"localization\" of Russian \"AK-203\" rifle production."
+  },
+  "The \"Shell Shock\" Psychological Trauma Polysemy": {
+    "Polarity": "anti-War",
+    "Pattern": "{soldiers, young people, audience, global community} + {trauma, ptsd, real Life, executive actions} + {shell shock, shell shocked, stony faced, wounded}",
+    "Summary": "Emerging as an emotional and psychological artifact of keyword polysemy, this theme tracks discussions around deep disillusionment and distress. The discourse describes military \"soldiers\", \"young people\", and the \"global community\" experiencing \"ptsd\" or deep \"trauma\" when confronting harsh realities, such as entering \"real Life\" or witnessing drastic \"executive actions\". The framing characterizes these individuals and groups as being \"wounded\", sitting \"stony faced\", and completely \"shell shocked\" by overwhelming political, economic, or combat-related stressors."
+  },
+  "The Hypocrisy of Russian Energy Purchases": {
+    "Polarity": "anti-EU",
+    "Pattern": "{EU, Europe, Brussels, European Union} + {Russian gas, Russian oil, LNG, fossil fuels} + {hypocrisy, funding both sides, quadruples, spent more, halfwits}",
+    "Summary": "This narrative highlights the perceived hypocrisy of European sanctions against Moscow. Commentators point out that while the EU publicly denounces Russia and sends financial aid to Ukraine, it paradoxically \"spent more\" on \"Russian oil\" and \"Russian gas\". The discourse tracks how \"Europe\" and \"Brussels\" have seen their spending on Russian \"LNG\" \"quadruples,\" leading critics to mock them as \"halfwits\" for the \"hypocrisy\" of \"funding both sides\" of the war due to an unbreakable addiction to \"fossil fuels\"."
+  },
+  "The Gaza Marine Field Theft and Ethnic Cleansing": {
+    "Polarity": "anti-Israel",
+    "Pattern": "{Israel, Netanyahu, Bibi, Zionist} + {natural gas, Gaza Marine, gas reserves, offshore} + {confiscate, ethnic cleansing, illegally sold, stealing, murder}",
+    "Summary": "Shifting focus from American imperialistic involvement, this highly saturated narrative explicitly targets \"Israel\" and figures like \"Netanyahu\" (\"Bibi\") for prosecuting the war in Gaza to \"confiscate\" Palestinian resources. The discourse tracks the history of the \"Gaza Marine\" \"gas reserves\" located \"offshore,\" asserting that the \"Zionist\" state is using \"murder\" and \"ethnic cleansing\" as a pretext to ensure \"natural gas\" licenses are \"illegally sold\" and Palestinians are permanently excluded from their wealth."
+  },
+  "NNPCL and Mele Kyari's Visionary Leadership": {
+    "Polarity": "pro-Corporate",
+    "Pattern": "{NNPCL, Mele Kyari, CEO} + {natural gas, LNG, gas production, capacity} + {visionary leadership, expertly steering, catalyst, transforming, economic growth}",
+    "Summary": "This highly supportive narrative acts almost as a public relations campaign for Nigeria's state oil company, praising \"NNPCL\" and its \"CEO,\" \"Mele Kyari\". The discourse repeatedly uses identical phrasing to commend his \"visionary leadership\" and how he is \"expertly steering\" the company to increase \"natural gas\" and \"LNG\" \"capacity\". The framing elevates these corporate actors as the primary \"catalyst\" for \"transforming\" the nation's energy sector and driving sustained \"economic growth\"."
+  },
+  "Net Zero as a \"Sinister\" Delusion": {
+    "Polarity": "anti-Green",
+    "Pattern": "{Chris Wright, Trump administration, BP} + {Net Zero, renewable energy, climate change, carbon footprint} + {lunacy, sinister goal, colossal failure, fundamental reset, delusion}",
+    "Summary": "This narrative attacks global environmental policies, specifically targeting \"Net Zero\" and \"renewable energy\" initiatives as dangerous and out-of-touch. Amplifying quotes from figures like US Energy Secretary \"Chris Wright,\" the discourse labels climate policies as a \"sinister goal,\" a \"delusion,\" and sheer \"lunacy\". The framing champions the continued use of fossil fuels and praises companies like \"BP\" for executing a \"fundamental reset\" to scrap \"climate change\" targets and return to core drilling operations."
+  }
+}
